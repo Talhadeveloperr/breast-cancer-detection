@@ -1,8 +1,14 @@
+
 # 🧬 Breast Cancer Detection Project
 
 A complete end-to-end machine learning project that detects whether a tumor is **benign** or **malignant** based on 30 medical features. This project demonstrates data engineering (ETL), data preprocessing, model training with GridSearchCV, API deployment, and an interactive Streamlit frontend.
 
 ---
+
+
+🚀 **Live App**: [Click here to try it on Streamlit](https://talhadeveloperr-breast-cancer-detection-streamlit-app-1ltj8g.streamlit.app/)
+
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://talhadeveloperr-breast-cancer-detection-streamlit-app-1ltj8g.streamlit.app/)
 
 ## 📁 Project Structure
 
